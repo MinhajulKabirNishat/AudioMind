@@ -18,3 +18,8 @@ This beginner-friendly Python project converts speech into text and performs bas
 1. Place audio file in audio/sample.wav
 2. Run speech_to_text.py
 3. Run text_analyzer.py
+
+## Output Screenshot
+![Program Output](screenshots/output.png)
+
+
